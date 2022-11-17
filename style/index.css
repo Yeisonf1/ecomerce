@@ -1,0 +1,63 @@
+/*Comentarios*/
+.bodyClass{
+    background-color: rgb(250, 175, 222);
+}
+.navClassLog{
+    color: red;
+    max-width: none;
+    background-color:bisque;
+}
+
+.navClassBarra{
+    margin-top: 3px;
+    background-color: aliceblue;
+    max-width: 100%;
+}
+.mainClass{
+    color: blue;
+    max-width: 80%;
+    background-color:violet;
+}
+
+.articleClass{
+    color: brown;
+    max-width: 20%;
+    background-color: yellowgreen;
+}
+.footerClass{
+    color: green;
+    max-width: none;
+    background-color:aqua;
+}
+.h1Class{
+    color: blueviolet;
+    max-width: 56%;
+    background-color: aquamarine;
+}
+.classSearch{
+    
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+.iconoSmall{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 15px;
+    height: 15px;
+}
+.iconoSmallRedes{
+    margin-left: 30px;
+    width: 15px;
+    height: 15px;
+}
+.iconoCarrito{
+    margin-left: 60%;
+    margin-top: 10px;
+    width: 15px;
+    height: 15px;
+}
+/*.Acerca{
+    margin-top: px;
+    margin-left: 1px;
+}*/
+
